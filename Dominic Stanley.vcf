@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Stanley;Dominic;;;
+FN: Dominic Stanley
+ORG:AccountAbility;
+TITLE:Senior Fellow, Advisory
+EMAIL;type=INTERNET;type=WORK;type=pref:dominic.stanley@accountability.org
+TEL;type=WORK;type=VOICE:+44 75 29 42 61
+item1.ADR;type=WORK;type=pref:;;3 Lloyds Avenue\nLondon EC3N 3DS;;;United Kingdom
+item1.X-ABADR:sg
+item2.URL;type=pref:accountability.org
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
